@@ -1,0 +1,13 @@
+{
+    "name": "simple-bot",
+    "version": "1.0.0",
+    "description": "Playing with izhaan#5506",
+    "main": "MAJESTIC eSports",
+    "author": "izhaan0001",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+	"discord.js" : "11.2.1"
+	}
+}
